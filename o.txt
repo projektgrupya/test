@@ -1,0 +1,31 @@
+Funkcjonalne
+-Mozliwosc logowania do serwisu za pomoca numeru indeksu i hasla
+-Mozliwosc dodawania kierunku studiowania.
+-Mozliwosc dodania wielu kierunkow studiowania.
+-Mozliwosc zawieszenia swojego konta
+-Wyswietlenie nowosci PWSZ
+-Wyswietlenie planu/planów zajêæ
+-Wyswietlenie ewentualnych notek od Profesorow
+-Wyswietlenie eventów PWSZ
+-Wyswietlenie dy¿urów
+Administrator:
+-Mo¿liwoœc dodawania u¿ytkowników
+-Mo¿liwoœc usuwania u¿ytkowników
+-Dostêp do danych wszystkich u¿ytkowników z mo¿liwoœci¹ edycji  
+-Wprowadzenie aktualizacji aplikacji
+-Wprowadzenie notek administratora(w razie waznych przypadkow)
+
+Niefunkcjonalne
+a) Aplikacja mobilna
+-Smartfon z  systemem Android w wersji min. 4.0
+-Dostêp do sieci Internet w urz¹dzeniu mobilnym
+b) Aplikacja serwerowa
+-Serwer www z obs³ug¹ PHP 5.0
+-Serwer baz danych MySQL 5.6
+-Domena internetowa
+
+Users stories:
+-Jako uzytkownik chcia³abym przyciski menu w postaci kwadratów na pulpicie.
+-Jako uzytkownik chcia³abym aby w aplikacji by³y wyœwietlane aktualnoœci, które wyœwietlane sa na stronie uczelni.
+-Jak
+	
