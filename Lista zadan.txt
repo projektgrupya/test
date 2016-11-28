@@ -1,0 +1,23 @@
+Robert 
+-Mo¿liwoœc dodawania u¿ytkowników
+-Mo¿liwoœc usuwania u¿ytkowników
+
+Dolek
+Wyswietlenie eventów PWSZ
+-Wyswietlenie dy¿urów
+
+Patrys
+-Wyswietlenie nowosci PWSZ
+-Wyswietlenie planu/planów zajêæ
+
+Pawel
+Mozliwosc zawieszenia swojego konta
+
+Marta
+Mozliwosc logowania do serwisu za pomoca numeru indeksu i hasla
+
+Dorota
+GPS
+
+Kamil
+-Mozliwosc dodawania kierunku studiowania.
