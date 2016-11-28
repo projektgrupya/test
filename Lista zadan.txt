@@ -1,14 +1,14 @@
 Robert 
--Mo縧iwo渃 dodawania u縴tkownik體
--Mo縧iwo渃 usuwania u縴tkownik體
+-Mo偶liwo艣c dodawania u偶ytkownik贸w
+-Mo偶liwo艣c usuwania u偶ytkownik贸w
 
-Dolek
-Wyswietlenie event體 PWSZ
--Wyswietlenie dy縰r體
+Marcin
+Wyswietlenie event贸w PWSZ
+-Wyswietlenie dy偶ur贸w
 
 Patrys
 -Wyswietlenie nowosci PWSZ
--Wyswietlenie planu/plan體 zaj赕
+-Wyswietlenie planu/plan贸w zaj臋膰
 
 Pawel
 Mozliwosc zawieszenia swojego konta
