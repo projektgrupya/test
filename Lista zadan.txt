@@ -22,3 +22,12 @@ Damian busz
 	-GPS
 	//Kamil
 	-Mozliwosc dodawania kierunku studiowania
+	
+
+4. Wprowadzanie nagłych komunikatów dla odpowiednich użytkowników
+	//Piotr K.
+	{
+	- Komunikaty dla konkretnych profesorów		
+	- Komunkaty dla konkretnych studentów
+	}
+
