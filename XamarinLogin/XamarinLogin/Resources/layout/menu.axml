@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/gridLayout1"
+    p1:rowCount="2"
+    p1:columnCount="2"
+    p1:background="@color/theme_devicedefault_background">
+    <Button
+        p1:text="Aktualności"
+        p1:id="@+id/news_btn"
+        p1:textSize="14dip" />
+    <Button
+        p1:text="Plan zajęć"
+        p1:id="@+id/plan_btn"
+        p1:textSize="14dip" />
+</GridLayout>
